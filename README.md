@@ -23,33 +23,24 @@ Choose one of the following datasets for your data warehouse design:
    - Include SQL queries to generate these Data Mart tables.
 
 ### Deliverables:
-1. **README.md**:
+1. **Slide/PPT**:
    - Provide an overview of the assignment and its objectives.
    - Include instructions on how to interpret the ERD diagram and schema description.
    - Explain the purpose of each Data Mart table and provide SQL queries to generate them.
    
 2. **ERD Diagram Image**:
-   - Attach an image of the ERD diagram in the README file.
+   - Attach an image of the ERD diagram in the Slide/PPT file.
    - Ensure the diagram is legible and clearly labeled.
    
 3. **SQL Files**:
    - Include SQL files containing schema creation queries and sample queries for generating Data Mart tables.
    
-### Submission Guidelines:
-- Fork this repository and commit your solution.
-- Ensure all files are properly named and organized.
-- Double-check that your SQL queries are accurate and well-commented.
-- Make sure your ERD diagram is clear and understandable.
-
 ### Evaluation Criteria:
 Your assignment will be evaluated based on the following criteria:
 - Accuracy and completeness of the schema design.
 - Clarity and coherence of the ERD diagram.
 - Depth and relevance of the schema description.
 - Appropriateness and effectiveness of the Data Mart table queries.
-
-### Deadline:
-Submit your completed assignment by [insert deadline here]. Late submissions will not be accepted.
 
 ### Additional Notes:
 - Feel free to use any tool or software for creating the ERD diagram.
